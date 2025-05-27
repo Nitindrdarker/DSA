@@ -34,3 +34,6 @@ class Solution:
                 res.append(i)
                 t += p
         return res
+    
+    # Time Complexity: O(n log n)
+    # Space Complexity: O(n)
